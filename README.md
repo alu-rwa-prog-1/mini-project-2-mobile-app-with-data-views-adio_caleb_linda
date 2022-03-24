@@ -7,5 +7,8 @@ Most youths do not have a safe space for airing their opinion or seeking help wh
 # Solution
 Our team will create an app that promotes anonymity while also allowing users to interact with mental health counselors. The app also allows users to come out of anonymity and reveal themselves whenever they want. They can also choose from a variety of  mental health issues  such as Depression, Suicide, Anxiety, and Bullying. When they click on any  of the afforementioned mental health issue , it takes them to a newsfeed where they can interact and connect with other.
 
+Note: you will realise that the app's folder are named after mitup however we later decided to call it safeSpace, as our goal is to create a safe space for our users. we therefore didn't change the folder's name to prevent any conflicts in the app.
+
+
 
 # [Figma design](https://www.figma.com/file/fNYOxEvVnGfy9Ky6KuRxL4/flutter-project?node-id=40%3A23)  
