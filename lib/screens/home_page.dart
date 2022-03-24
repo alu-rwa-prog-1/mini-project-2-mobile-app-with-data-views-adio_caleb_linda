@@ -16,6 +16,7 @@ class _HomePageScreenState extends State<HomePageScreen> {
   final List<Widget> _page = [
     const DashboardHome(),
     const FilteredInterest(),
+    const AccountProfile(),
     const AccountProfile()
   ];
   int selectedIndex = 0;
@@ -38,10 +39,12 @@ class _HomePageScreenState extends State<HomePageScreen> {
         unselectedItemColor: Colors.black54,
         items: const [
           BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
-          BottomNavigationBarItem(icon: Icon(Icons.feed), label: 'Feeds'),
+
+          BottomNavigationBarItem(icon: Icon(Icons.explore), label: 'Explore'),
+          BottomNavigationBarItem(icon: Icon(Icons.message), label: 'Message'),
           BottomNavigationBarItem(
               icon: Icon(Icons.account_circle), label: 'Account'),
-        ],
+         ],
       ),
     );
   }

@@ -9,13 +9,13 @@ class Interest {
 }
 
 const INTERESTS = [
-  Interest(interestId: "1", interestName: "Technology", interestImagePath: ""),
-  Interest(interestId: "2", interestName: "Politics", interestImagePath: ""),
+  Interest(interestId: "1", interestName: "Suicide", interestImagePath: ""),
+  Interest(interestId: "2", interestName: "Domestic Violence", interestImagePath: ""),
   Interest(
-      interestId: "3", interestName: "Christianity", interestImagePath: ""),
-  Interest(interestId: "4", interestName: "Beauty", interestImagePath: ""),
-  Interest(interestId: "5", interestName: "School", interestImagePath: ""),
-  Interest(interestId: "6", interestName: "Soccer", interestImagePath: ""),
-  Interest(interestId: "7", interestName: "Movies", interestImagePath: ""),
-  Interest(interestId: "8", interestName: "Driving", interestImagePath: ""),
+      interestId: "3", interestName: "Depression", interestImagePath: ""),
+  Interest(interestId: "4", interestName: "Disorders", interestImagePath: ""),
+  Interest(interestId: "5", interestName: "Bullying", interestImagePath: ""),
+  Interest(interestId: "6", interestName: "Addiction", interestImagePath: ""),
+  Interest(interestId: "7", interestName: "Trauma", interestImagePath: ""),
+  Interest(interestId: "8", interestName: "Schizophrenia", interestImagePath: ""),
 ];
